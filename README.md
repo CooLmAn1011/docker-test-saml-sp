@@ -12,11 +12,7 @@ Built with [SimpleSAMLphp](https://simplesamlphp.org). Based on official PHP7 Ap
 
 SimpleSAMLphp is logging to stdout on debug log level. Apache is logging error and access log to stdout.
 
-The contained version of SimpleSAMLphp is 1.14.15.
-
-## Supported Tags
-
-- `1.14.15` [(Dockerfile)](https://github.com/kristophjunge/docker-test-saml-idp/blob/1.14.15/Dockerfile)
+The contained version of SimpleSAMLphp is 1.16.2.
 
 ## Usage
 
